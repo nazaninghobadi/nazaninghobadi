@@ -32,7 +32,7 @@ My goal is to apply AI to create meaningful and scalable impact.
 
 <h3>✨ Soft Skills</h3>
 
-<table>
+<table style="text-align: center;">
   <tr>
     <th style="background-color:#e0f7fa;">🧑‍🤝‍🧑 Teamwork</th>
     <th style="background-color:#e0f7fa;">⚡ Fast Learner</th>
@@ -48,6 +48,7 @@ My goal is to apply AI to create meaningful and scalable impact.
     <td>Creative and logical thinker</td>
   </tr>
 </table>
+
 
 
 ---
