@@ -13,21 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Nazanin 👩‍💻</h1>
+<h1 align="center">Hi There, I'm Nazanin 👩‍💻</h1>
 
 <p align="center">
-  <em>AI enthusiast, curious learner, and creative</em>
+  <em>AI enthusiast 🤖 | curious learner 🔍 | Book lover 📖</em></em>
 </p>
 
 ---
 
-### About Me
+### 🌱 About Me
 
 I’m fascinated by uncovering hidden patterns in data and love turning ideas into real products. Growth drives me, and my goal is to make a meaningful impact in the world.
 
 ---
 
-### Soft Skills
+### ✨ Soft Skills
 
 | 🧑‍🤝‍🧑 Teamwork        | ⚡ Fast Learner          | 🕰️ Discipline            | 💪 Hard Worker            |
 |------------------------|--------------------------|---------------------------|---------------------------|
