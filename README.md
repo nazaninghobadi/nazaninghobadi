@@ -31,23 +31,19 @@ My goal is to apply AI to create meaningful and scalable impact.
 ---
 
 <h3>✨ Soft Skills</h3>
-
-<table style="border-collapse: collapse;">
-  <tr>
-    <th style="background-color:#e0f7fa; text-align: center;">🧑‍🤝‍🧑 Teamwork</th>
-    <th style="background-color:#e0f7fa; text-align: center;">⚡ Fast Learner</th>
-    <th style="background-color:#e0f7fa; text-align: center;">🕰️ Discipline</th>
-    <th style="background-color:#e0f7fa; text-align: center;">💪 Hard Worker</th>
-    <th style="background-color:#e0f7fa; text-align: center;">🧠 Problem-Solving</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Collaborative and reliable</td>
-    <td style="text-align: center;">Quickly adapts and learns</td>
-    <td style="text-align: center;">Consistent and focused</td>
-    <td style="text-align: center;">Persistent and dedicated</td>
-    <td style="text-align: center;">Creative and logical thinker</td>
-  </tr>
-</table>
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  th, td {
+    text-align: center;
+    padding: 8px; /* دلخواه */
+    background-color: #e0f7fa; /* فقط اگر می‌خواهید رنگ پس‌زمینه همه سلول‌ها */
+  }
+  tr:nth-child(1) th {
+    background-color: #e0f7fa; /* فقط برای ردیف اول */
+  }
+</style>
 
 
 
