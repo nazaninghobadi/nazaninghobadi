@@ -32,20 +32,20 @@ My goal is to apply AI to create meaningful and scalable impact.
 
 <h3>✨ Soft Skills</h3>
 
-<table style="text-align: center;">
+<table style="border-collapse: collapse;">
   <tr>
-    <th style="background-color:#e0f7fa;">🧑‍🤝‍🧑 Teamwork</th>
-    <th style="background-color:#e0f7fa;">⚡ Fast Learner</th>
-    <th style="background-color:#e0f7fa;">🕰️ Discipline</th>
-    <th style="background-color:#e0f7fa;">💪 Hard Worker</th>
-    <th style="background-color:#e0f7fa;">🧠 Problem-Solving</th>
+    <th style="background-color:#e0f7fa; text-align: center;">🧑‍🤝‍🧑 Teamwork</th>
+    <th style="background-color:#e0f7fa; text-align: center;">⚡ Fast Learner</th>
+    <th style="background-color:#e0f7fa; text-align: center;">🕰️ Discipline</th>
+    <th style="background-color:#e0f7fa; text-align: center;">💪 Hard Worker</th>
+    <th style="background-color:#e0f7fa; text-align: center;">🧠 Problem-Solving</th>
   </tr>
   <tr>
-    <td>Collaborative and reliable</td>
-    <td>Quickly adapts and learns</td>
-    <td>Consistent and focused</td>
-    <td>Persistent and dedicated</td>
-    <td>Creative and logical thinker</td>
+    <td style="text-align: center;">Collaborative and reliable</td>
+    <td style="text-align: center;">Quickly adapts and learns</td>
+    <td style="text-align: center;">Consistent and focused</td>
+    <td style="text-align: center;">Persistent and dedicated</td>
+    <td style="text-align: center;">Creative and logical thinker</td>
   </tr>
 </table>
 
