@@ -19,7 +19,8 @@ Here are some ideas to get you started:
   AI enthusiast 🤖 | curious learner 🔍 | Book lover 📖
 </p>
 
----
+
+
 
 ### 🌱 About Me
 
@@ -33,14 +34,14 @@ I’m fascinated by uncovering hidden patterns in data and love turning ideas in
 |------------------------|--------------------------|---------------------------|---------------------------|
 | Collaborative and reliable | Quickly adapts and learns | Consistent and focused | Persistent and dedicated |
 
+---
+### 🧰 My Tech Toolbox
 
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
 </p>
-
----
 
 ### Libraries & Frameworks
 <p>
