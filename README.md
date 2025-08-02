@@ -16,23 +16,25 @@ Here are some ideas to get you started:
 <h1 align="center">Hi There, I'm Nazanin 👩‍💻</h1>
 
 <p align="center" style="font-size:20px; font-style:italic;">
-  AI enthusiast 🤖 | curious learner 🔍 | Book lover 📖
+  AI enthusiast | curious learner | Book lover
 </p>
 
 
 
-
+---
 ### 🌱 About Me
 
-I’m fascinated by uncovering hidden patterns in data and love turning ideas into real products. Growth drives me, and my goal is to make a meaningful impact in the world.
+I'm passionate about uncovering hidden patterns in data and love turning ideas into real-world AI products.
+Currently focused on learning advanced machine learning and building intelligent agents.  
+My goal is to apply AI to create meaningful and scalable impact.
 
 ---
 
 ### ✨ Soft Skills
 
-| 🧑‍🤝‍🧑 Teamwork        | ⚡ Fast Learner          | 🕰️ Discipline            | 💪 Hard Worker            |
-|------------------------|--------------------------|---------------------------|---------------------------|
-| Collaborative and reliable | Quickly adapts and learns | Consistent and focused | Persistent and dedicated |
+| 🧑‍🤝‍🧑 Teamwork        | ⚡ Fast Learner          | 🕰️ Discipline            | 💪 Hard Worker            | 🧠 Problem-Solving         |
+|------------------------|--------------------------|---------------------------|---------------------------|-----------------------------|
+| Collaborative and reliable | Quickly adapts and learns | Consistent and focused | Persistent and dedicated | Creative and logical thinker |
 
 ---
 ### 🧰 My Tech Toolbox
@@ -84,6 +86,7 @@ I’m fascinated by uncovering hidden patterns in data and love turning ideas in
 <p>
   <a href="https://github.com/nazaninghobadi">GitHub</a> &nbsp;•&nbsp;
   <a href="mailto:nazligh8383@email.com">Email</a>
+  <a href="https://t.me/nazigho">Telegram</a>
 </p>
 
 ---
