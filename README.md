@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi There, I'm Nazanin 👩‍💻</h1>
 
-<p align="center">
-  <em>AI enthusiast 🤖 | curious learner 🔍 | Book lover 📖</em></em>
+<p align="center" style="font-size:20px; font-style:italic;">
+  AI enthusiast 🤖 | curious learner 🔍 | Book lover 📖
 </p>
 
 ---
