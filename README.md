@@ -19,9 +19,8 @@ Here are some ideas to get you started:
   AI enthusiast | curious learner | Book lover
 </p>
 
+&nbsp;  
 
-
----
 ### 🌱 About Me
 
 I'm passionate about uncovering hidden patterns in data and love turning ideas into real-world AI products.
@@ -31,32 +30,35 @@ My goal is to apply AI to create meaningful and scalable impact.
 ---
 
 <h3>✨ Soft Skills</h3>
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  th, td {
-    text-align: center;
-    padding: 8px; /* دلخواه */
-    background-color: #e0f7fa; /* فقط اگر می‌خواهید رنگ پس‌زمینه همه سلول‌ها */
-  }
-  tr:nth-child(1) th {
-    background-color: #e0f7fa; /* فقط برای ردیف اول */
-  }
-</style>
+&nbsp;  
+<table style="border-collapse: collapse;">
+  <tr>
+    <th style="background-color:#e0f7fa; text-align: center;">🧑‍🤝‍🧑 Teamwork</th>
+    <th style="background-color:#e0f7fa; text-align: center;">⚡ Fast Learner</th>
+    <th style="background-color:#e0f7fa; text-align: center;">🕰️ Discipline</th>
+    <th style="background-color:#e0f7fa; text-align: center;">💪 Hard Worker</th>
+    <th style="background-color:#e0f7fa; text-align: center;">🧠 Problem-Solving</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Collaborative and reliable</td>
+    <td style="text-align: center;">Quickly adapts and learns</td>
+    <td style="text-align: center;">Consistent and focused</td>
+    <td style="text-align: center;">Persistent and dedicated</td>
+    <td style="text-align: center;">Creative and logical thinker</td>
+  </tr>
+</table>
 
-
+&nbsp;  
 
 ---
 ### 🧰 My Tech Toolbox
-
-### Programming Languages
+#### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
 </p>
 
-### Libraries & Frameworks
+#### Libraries & Frameworks
 <p>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
@@ -67,14 +69,14 @@ My goal is to apply AI to create meaningful and scalable impact.
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white"/>
 </p>
 
-### LLM & RAG
+#### LLM & RAG
 <p>
   <img src="https://img.shields.io/badge/-LangChain-blueviolet?style=flat"/>
   <img src="https://img.shields.io/badge/-RAG-black?style=flat"/>
   <img src="https://img.shields.io/badge/-LLMs-000000?style=flat"/>
 </p>
 
-### Tools & Environments
+#### Tools & Environments
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
@@ -83,7 +85,7 @@ My goal is to apply AI to create meaningful and scalable impact.
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
 </p>
 
-### APIs & Vector DBs
+#### APIs & Vector DBs
 <p>
   <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OpenRouter_API-gray?style=flat"/>
@@ -95,10 +97,14 @@ My goal is to apply AI to create meaningful and scalable impact.
 ### 📬 Reach Me
 
 <p>
-  <a href="https://github.com/nazaninghobadi">GitHub</a> &nbsp;•&nbsp;
-  <a href="mailto:nazligh8383@email.com">Email</a> &nbsp;•&nbsp;
-  <a href="https://t.me/nazigho">Telegram</a>
+  <a href="mailto:nazligh8383@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/nazigho">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
