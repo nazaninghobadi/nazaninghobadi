@@ -30,11 +30,25 @@ My goal is to apply AI to create meaningful and scalable impact.
 
 ---
 
-### ✨ Soft Skills
+<h3>✨ Soft Skills</h3>
 
-| 🧑‍🤝‍🧑 Teamwork        | ⚡ Fast Learner          | 🕰️ Discipline            | 💪 Hard Worker            | 🧠 Problem-Solving         |
-|------------------------|--------------------------|---------------------------|---------------------------|-----------------------------|
-| Collaborative and reliable | Quickly adapts and learns | Consistent and focused | Persistent and dedicated | Creative and logical thinker |
+<table>
+  <tr>
+    <th style="background-color:#e0f7fa;">🧑‍🤝‍🧑 Teamwork</th>
+    <th style="background-color:#e0f7fa;">⚡ Fast Learner</th>
+    <th style="background-color:#e0f7fa;">🕰️ Discipline</th>
+    <th style="background-color:#e0f7fa;">💪 Hard Worker</th>
+    <th style="background-color:#e0f7fa;">🧠 Problem-Solving</th>
+  </tr>
+  <tr>
+    <td>Collaborative and reliable</td>
+    <td>Quickly adapts and learns</td>
+    <td>Consistent and focused</td>
+    <td>Persistent and dedicated</td>
+    <td>Creative and logical thinker</td>
+  </tr>
+</table>
+
 
 ---
 ### 🧰 My Tech Toolbox
@@ -85,7 +99,7 @@ My goal is to apply AI to create meaningful and scalable impact.
 
 <p>
   <a href="https://github.com/nazaninghobadi">GitHub</a> &nbsp;•&nbsp;
-  <a href="mailto:nazligh8383@email.com">Email</a>
+  <a href="mailto:nazligh8383@email.com">Email</a> &nbsp;•&nbsp;
   <a href="https://t.me/nazigho">Telegram</a>
 </p>
 
