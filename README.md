@@ -100,7 +100,7 @@ My goal is to apply AI to create meaningful and scalable impact.
   <a href="mailto:nazligh8383@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/nazigho">
+  <a href="https://t.me/NaziQbd">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
   </a>
 </p>
