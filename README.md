@@ -1,95 +1,61 @@
+<div align="center">
 
-<!--
-**nazaninghobadi/nazaninghobadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi There, I'm Nazanin 👩‍💻
 
-Here are some ideas to get you started:
+### Curious learner with an interest in AI, Data & Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi There, I'm Nazanin 👩‍💻</h1>
-
-<p align="center" style="font-size:20px; font-style:italic;">
-  AI enthusiast | curious learner | Book lover
-</p>
-
-&nbsp;  
-
-### 🌱 About Me
-
-I'm passionate about uncovering hidden patterns in data and love turning ideas into real-world AI products.
-Currently focused on learning advanced machine learning and building intelligent agents.  
-My goal is to apply AI to create meaningful and scalable impact.
+</div>
 
 ---
 
-<h3>✨ Soft Skills</h3>
-&nbsp;  
-<table style="border-collapse: collapse;">
-  <tr>
-    <th style="background-color:#e0f7fa; text-align: center;">🧑‍🤝‍🧑 Teamwork</th>
-    <th style="background-color:#e0f7fa; text-align: center;">⚡ Fast Learner</th>
-    <th style="background-color:#e0f7fa; text-align: center;">🕰️ Discipline</th>
-    <th style="background-color:#e0f7fa; text-align: center;">💪 Hard Worker</th>
-    <th style="background-color:#e0f7fa; text-align: center;">🧠 Problem-Solving</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Collaborative and reliable</td>
-    <td style="text-align: center;">Quickly adapts and learns</td>
-    <td style="text-align: center;">Consistent and focused</td>
-    <td style="text-align: center;">Persistent and dedicated</td>
-    <td style="text-align: center;">Creative and logical thinker</td>
-  </tr>
-</table>
+## 🌱 About Me
 
-&nbsp;  
+> I'm curious about how technology can be used to solve real-world problems.
+
+I've explored different areas including **Machine Learning, Data Analysis, LLMs, and AI applications**, and I'm currently learning more about **C#, ASP.NET Core, SQL Server, and backend development**.
+
+I enjoy learning by **building projects** and understanding how things work behind the scenes.
 
 ---
-### 🧰 My Tech Toolbox
-#### Programming Languages
+
+## 🧰 Technologies & Tools
+
+### 💻 Programming
+
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-#### Libraries & Frameworks
+### ⚙️ Backend & Database
+
 <p>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-#### LLM & RAG
+### 🤖 Data & AI
+
 <p>
-  <img src="https://img.shields.io/badge/-LangChain-blueviolet?style=flat"/>
-  <img src="https://img.shields.io/badge/-RAG-black?style=flat"/>
-  <img src="https://img.shields.io/badge/-LLMs-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 </p>
 
-#### Tools & Environments
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
-</p>
+### 🛠️ Tools
 
-#### APIs & Vector DBs
 <p>
-  <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenRouter_API-gray?style=flat"/>
-  <img src="https://img.shields.io/badge/-Vector_DBs-006400?style=flat"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
@@ -97,7 +63,7 @@ My goal is to apply AI to create meaningful and scalable impact.
 ### 📬 Reach Me
 
 <p>
-  <a href="mailto:nazligh8383@email.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nazligh8383@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/NaziQbd">
@@ -109,6 +75,6 @@ My goal is to apply AI to create meaningful and scalable impact.
 ---
 
 <p align="center">
-  <em>Let’s build a future where curiosity meets impact.</em>
+  <em>Always learning, building, and exploring.</em>
 </p>
 
